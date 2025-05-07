@@ -1,0 +1,23 @@
+{
+  "AppOpenId": "ca-app-pub-3940256099942544/5575463023",
+  "ClickCount": 7,
+  "DisplayAds": true,
+  "InterstitialId": "ca-app-pub-3940256099942544/4411468910",
+  "RewardedId": "ca-app-pub-3940256099942544/1712485313",
+  "BannerId_01": {
+    "adId": "ca-app-pub-3940256099942544/2934735716",
+    "isActive": true
+  },
+  "BannerId_02": {
+    "adId": "ca-app-pub-3940256099942544/2934735716",
+    "isActive": true
+  },
+  "NativeAdId_01": {
+    "adId": "ca-app-pub-3940256099942544/3986624511",
+    "isActive": true
+  },
+  "NativeAdId_02": {
+    "adId": "ca-app-pub-3940256099942544/3986624511",
+    "isActive": true
+  }
+}
