@@ -1,23 +1,23 @@
 {
-  "AppOpenId": "ca-app-pub-3940256099942544/5575463023",
+  "AppOpenId": "ca-app-pub-3817888579216693/9004692201",
   "ClickCount": 7,
   "DisplayAds": false,
-  "InterstitialId": "ca-app-pub-3940256099942544/4411468910",
-  "RewardedId": "ca-app-pub-3940256099942544/1712485313",
+  "InterstitialId": "ca-app-pub-3817888579216693/3284611605",
+  "RewardedId": "ca-app-pub-3817888579216693/5560271217",
   "BannerId_01": {
-    "adId": "ca-app-pub-3940256099942544/2934735716",
+    "adId": "ca-app-pub-3817888579216693/9084342002",
     "isActive": false
   },
   "BannerId_02": {
-    "adId": "ca-app-pub-3940256099942544/2934735716",
+    "adId": "ca-app-pub-3817888579216693/9084342002",
     "isActive": false
   },
   "NativeAdId_01": {
-    "adId": "ca-app-pub-3940256099942544/3986624511",
+    "adId": "ca-app-pub-3817888579216693/7755189711",
     "isActive": false
   },
   "NativeAdId_02": {
-    "adId": "ca-app-pub-3940256099942544/3986624511",
+    "adId": "ca-app-pub-3817888579216693/7755189711",
     "isActive": false
   }
 }
