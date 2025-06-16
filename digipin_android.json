@@ -1,23 +1,23 @@
 {
-  "AppOpenId": "ca-app-pub-3817888579216693/9004692201",
+  "AppOpenId": "ca-app-pub-3817888579216693/1957654277",
   "ClickCount": 7,
-  "DisplayAds": false,
-  "InterstitialId": "ca-app-pub-3817888579216693/3284611605",
-  "RewardedId": "ca-app-pub-3817888579216693/5560271217",
+  "DisplayAds": true,
+  "InterstitialId": "ca-app-pub-3817888579216693/3411170895",
+  "RewardedId": "",
   "BannerId_01": {
-    "adId": "ca-app-pub-3817888579216693/9084342002",
-    "isActive": false
+    "adId": "ca-app-pub-3817888579216693/7209980959",
+    "isActive": true
   },
   "BannerId_02": {
-    "adId": "ca-app-pub-3817888579216693/9084342002",
+    "adId": "ca-app-pub-3817888579216693/7209980959",
     "isActive": false
   },
   "NativeAdId_01": {
-    "adId": "ca-app-pub-3817888579216693/7755189711",
-    "isActive": false
+    "adId": "ca-app-pub-3817888579216693/2305972786",
+    "isActive": true
   },
   "NativeAdId_02": {
-    "adId": "ca-app-pub-3817888579216693/7755189711",
+    "adId": "ca-app-pub-3817888579216693/2305972786",
     "isActive": false
   },
   "appUrl": "https://play.google.com/store/apps/details?id=com.digipin.app"
