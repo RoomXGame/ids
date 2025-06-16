@@ -1,24 +1,24 @@
 {
   "AppOpenId": "ca-app-pub-3817888579216693/5845762546",
   "ClickCount": 7,
-  "DisplayAds": false,
+  "DisplayAds": true,
   "InterstitialId": "ca-app-pub-3817888579216693/7793269031",
   "RewardedId": "",
   "BannerId_01": {
     "adId": "ca-app-pub-3817888579216693/7899411945",
-    "isActive": false
+    "isActive": true
   },
   "BannerId_02": {
     "adId": "ca-app-pub-3817888579216693/7899411945",
-    "isActive": false
+    "isActive": true
   },
   "NativeAdId_01": {
     "adId": "ca-app-pub-3817888579216693/1334003595",
-    "isActive": false
+    "isActive": true
   },
   "NativeAdId_02": {
     "adId": "ca-app-pub-3817888579216693/1334003595",
-    "isActive": false
+    "isActive": true
   },
   "appUrl": "https://apps.apple.com/app/id6747185077"
 }
